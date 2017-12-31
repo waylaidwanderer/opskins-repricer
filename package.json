@@ -1,0 +1,29 @@
+{
+  "name": "opskins-repricer",
+  "version": "1.0.0",
+  "description": "Reprices multiple OPSkins accounts' listings periodically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waylaidwanderer/opskins-repricer.git"
+  },
+  "keywords": [
+    "opskins",
+    "listings",
+    "reprice",
+    "pricing",
+    "sell"
+  ],
+  "author": "waylaidwanderer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waylaidwanderer/opskins-repricer/issues"
+  },
+  "homepage": "https://github.com/waylaidwanderer/opskins-repricer#readme",
+  "dependencies": {
+    "@opskins/api": "^1.4.2"
+  }
+}
