@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/waylaidwanderer/opskins-repricer#readme",
   "dependencies": {
-    "@opskins/api": "^1.4.2"
+    "@opskins/api": "^1.4.2",
+    "bluebird": "^3.5.1",
+    "redis": "^2.8.0"
   },
   "devDependencies": {
     "eslint": "^4.14.0",
